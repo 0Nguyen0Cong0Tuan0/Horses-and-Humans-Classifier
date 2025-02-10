@@ -1,2 +1,8 @@
 # Ignore training and testing data folders
 data/
+
+# Ignore model file
+inception_v3.h5
+horses-and-humans-wo-validation.keras
+horses-and-humans-w-validation.keras
+horses-and-humans-image-augmentation.keras
